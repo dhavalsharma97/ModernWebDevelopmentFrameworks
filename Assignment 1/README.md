@@ -15,6 +15,6 @@ The index.html page contains the basic information of the Vecta Corporation. It'
     * Client Testimonials
     * Contact Information
 
-![[HTML5 Logo](html5.png)](https://en.wikipedia.org/wiki/HTML5)
+[![HTML5 Logo](html5.png)](https://en.wikipedia.org/wiki/HTML5)
 
 [Vecta_Address]: https://github.com/dhavalsharma97/ModernWebDevelopmentFrameworks/tree/master/Assignment%201
