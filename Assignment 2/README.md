@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 This assignment focuses on getting us know more about the **HTML** pages. It contains an **index.html** file for the home page of Vecta Corporation, **aboutus.html** for the company overview, **solutions.html** for the products and **contactus.html** for the contact information.
 
 ## Installation
