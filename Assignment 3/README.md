@@ -10,6 +10,6 @@ This assignment focuses on getting us know more about **CSS**. It has two parts.
 Dhaval Sharma (Red Id: 824654344)
 
 [![HTML5 Logo](html5.png)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3 Logo](css3.png)](https://en.wikipedia.org/wiki/CSS3)
+[![CSS3 Logo](css3.png)](https://en.wikipedia.org/wiki/CSS)
 
 [Vecta_Address]: https://github.com/dhavalsharma97/ModernWebDevelopmentFrameworks/tree/master/Assignment%203
