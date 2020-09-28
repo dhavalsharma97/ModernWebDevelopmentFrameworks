@@ -1,5 +1,5 @@
 # Assignment 4
-This assignment focuses on getting us know more about **CSS**. It contains three layout files with different configurations. It contains an **layout.html**, **layout2.html** and **layout3.html**.
+This assignment focuses on getting us know more about **CSS**. It contains three layout files with different configurations. It contains **layout1.html**, **layout2.html** and **layout3.html** with each one implementing various Grid Layouts.
 
 ## Installation
 * git clone _[Github_Address][Vecta_Address]_
