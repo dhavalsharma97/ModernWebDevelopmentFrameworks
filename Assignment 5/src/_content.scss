@@ -1,0 +1,75 @@
+#headline {
+    width:100%;
+    height:130px;
+    background:$headline-color;
+    text-align:center;
+    margin:0 auto;
+    h1 {
+        color:$white;
+        font-size:2.5em;
+        font-weight:100;
+        padding-top:50px;
+        @include media(767px) {
+            font-size:2em;
+            padding-top:50px;
+        }
+        @include media(459px) {
+            font-size:1.5em;
+            padding-top:30px;
+        }
+    }
+}
+
+#content {
+    margin:20px auto;
+    @include width(940px);
+    @include height(auto);
+    @include float();
+    @include media(959px) {
+        width:inherit;
+    }
+    h3 {
+        color:$silver;
+        font-size:2em;
+        font-weight:400;
+        @include media(459px) {
+            font-size:1.6em;;
+        }
+    }
+    #products {
+        width:460px;
+        @include float(left);
+        @include media(959px) {
+            width:46%;
+            margin:0 2%;
+        }
+        @include media(767px) {
+            width:96%;
+            margin:0 2%;
+            float:none;
+        }
+        img {
+            @include float(left);
+            margin-right:20px;
+        }
+        article {
+            margin-bottom:40px;
+        }
+        h4 {
+            line-height:1em;
+        }
+    }
+    #testimonials {
+        width:460px;
+        @include float(right);
+        @include media(959px) {
+            width:46%;
+            margin:0 2%;
+        }
+        @include media(767px) {
+            width:96%;
+            margin:0 2%;
+            float:none;
+        }
+    }
+}
