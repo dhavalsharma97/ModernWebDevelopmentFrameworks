@@ -9,8 +9,8 @@ This assignment focuses on getting us know more about **GULP** and **SASS**. It 
 ## Credits
 Dhaval Sharma (Red Id: 824654344)
 
-[![HTML5 Logo](/dist/images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3 Logo](/dist/images/css3.png)](https://en.wikipedia.org/wiki/CSS)
-[![SASS Logo](/dist/images/sass.png)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+[![HTML5 Logo](./dist/images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3 Logo](./dist/images/css3.png)](https://en.wikipedia.org/wiki/CSS)
+[![SASS Logo](./dist/images/sass.png)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 
 [Vecta_Address]: https://github.com/dhavalsharma97/ModernWebDevelopmentFrameworks/tree/master/Assignment%205
