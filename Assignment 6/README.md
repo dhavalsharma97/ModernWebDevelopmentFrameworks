@@ -1,5 +1,13 @@
 # Assignment 5
-This assignment focuses on getting us know more about **JavaScript**. It contains a basic HTML page with various JavaScript files linked to it. They contain conditional logic and looping problems.
+This assignment focuses on getting us know more about **JavaScript**. It contains a basic HTML page with various JavaScript files linked to it. They contain several conditional logic and looping problems. The problems are as follows:
+* Larger or Smaller?
+* The “Coin Flip” Game
+* The “Coin Flip” Game Redux
+* The “Coin Flip Streak” Game
+* Looping a Triangle
+* Odd or Even?
+* Marco! Polo!
+* Countdown
 
 ## Installation
 * git clone _[Github_Address][Address]_
