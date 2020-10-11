@@ -10,8 +10,8 @@ This assignment focuses on getting us know more about **JavaScript**. It contain
 ## Credits
 Dhaval Sharma (Red Id: 824654344)
 
-[![HTML5 Logo](./dist/images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3 Logo](./dist/images/css3.png)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript Logo](./dist/images/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
+[![HTML5 Logo](html5.png)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3 Logo](css3.png)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript Logo](javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
 
 [Address]: https://github.com/dhavalsharma97/ModernWebDevelopmentFrameworks/tree/master/Assignment%206
