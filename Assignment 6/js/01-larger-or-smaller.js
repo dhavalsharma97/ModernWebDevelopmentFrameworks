@@ -1,16 +1,16 @@
 // Initialize the variables
-var firstNum, SecondNum;
+var firstNum, secondNum;
 
 // Get the values from user
 firstNum = parseInt(window.prompt("Enter the first number:"));
-SecondNum = parseInt(window.prompt("Enter the second number:"));
+secondNum = parseInt(window.prompt("Enter the second number:"));
 
 // Compare the values
-if (firstNum > SecondNum) {
+if (firstNum > secondNum) {
     window.document.write("The larger number is " + firstNum);
 }
-else if (firstNum < SecondNum) {
-    window.document.write("The larger number is " + SecondNum);
+else if (firstNum < secondNum) {
+    window.document.write("The larger number is " + secondNum);
 }
 else {
     window.document.write("Both the numbers are equal!");
