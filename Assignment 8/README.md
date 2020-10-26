@@ -1,5 +1,5 @@
 # Assignment 8
-This assignment focuses on getting us know more about **JavaScript**. It is an Employee Management Application where you can add and delete the employees on run-time. It also features a error checking mechanism for the inputs.
+This assignment focuses on getting us know more about **JavaScript**. It contains an Employee Management Application where you can add and delete the employees on run-time. It also features a error checking mechanism for the inputs.
 
 ## Installation
 * git clone _[Github_Address][Address]_
